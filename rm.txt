@@ -12,3 +12,8 @@ jsw@c:~/code/codeoneline/defi-core/thegraph$ npx hardhat run scripts/deploy-with
 初始供应量: 1000000.0
 ✅ 部署成功！
 合约地址: 0xcf1990dD05836AD16FEbd5238ce631b264FE377d
+
+
+graph studio
+api key
+simpleToken = b20661076dd2e3265b75a766a23a3993
